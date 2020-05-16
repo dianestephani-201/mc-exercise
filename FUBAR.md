@@ -17,3 +17,4 @@ This is the Bob/Carol feature on Bob's laptop without a git pull origin master
 This is round two. This is Carol's commit.
 
 
+This is step 3 in merging conflicts.
